@@ -1,0 +1,4 @@
+#Thu Apr 28 15:37:49 IST 2022
+base.0=/home/k/Documents/UnityProjects/CICD/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
